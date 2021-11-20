@@ -2,7 +2,7 @@
 
 #### Adicionando e instalando os pacotes:
 
-- [Microsoft.AspNetCore.Authentication.JwtBearer](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer)
+- [x] - [Microsoft.AspNetCore.Authentication.JwtBearer](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer)
 
 ```
 ### Via CLI do dotnet
